@@ -1,0 +1,16 @@
+{
+    "name": "WhatABob!",
+    "description": "Juegazo intuitivo para Firefox OS",
+    "icons": {
+        "64": "/img/icon_64.png",
+        "128": "/img/icon_128.png"
+    },
+    "developer": {
+        "name" : "Jorge Márquez Torres",
+        "url": "http://www.asdf.com"
+    },
+    "launch_path": "/index.html",
+    "default_locale": "en",
+    "fullscreen": "true",
+    "version": "1.0.0"
+}
